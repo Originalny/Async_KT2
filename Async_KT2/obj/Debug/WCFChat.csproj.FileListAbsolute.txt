@@ -1,0 +1,7 @@
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\bin\Debug\Async_KT2.dll
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\bin\Debug\Async_KT2.pdb
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\obj\Debug\WCFChat.csproj.AssemblyReference.cache
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\obj\Debug\WCFChat.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\obj\Debug\Async_KT2.dll
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\obj\Debug\Async_KT2.pdb
+C:\Users\Soma\source\repos\Async_KT2\Async_KT2\bin\Debug\Async_KT2.dll.config

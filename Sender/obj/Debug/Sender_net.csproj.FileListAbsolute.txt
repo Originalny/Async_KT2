@@ -1,0 +1,11 @@
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Sender_net.exe.config
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Sender_net.exe
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Sender_net.pdb
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Async_KT2.dll
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Async_KT2.pdb
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\bin\Debug\Async_KT2.dll.config
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\obj\Debug\Sender_net.csproj.AssemblyReference.cache
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\obj\Debug\Sender_net.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\obj\Debug\Sender_net.csproj.Up2Date
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\obj\Debug\Sender_net.exe
+C:\Users\Soma\source\repos\Async_KT2\Sender_net\obj\Debug\Sender_net.pdb

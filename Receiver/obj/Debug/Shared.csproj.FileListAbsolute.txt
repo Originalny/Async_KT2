@@ -1,0 +1,12 @@
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Shared.exe.config
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Shared.exe
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Shared.pdb
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Async_KT2.dll
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Async_KT2.pdb
+C:\Users\Soma\source\repos\Async_KT2\Shared\bin\Debug\Async_KT2.dll.config
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.csproj.Up2Date
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.exe
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.pdb
+C:\Users\Soma\source\repos\Async_KT2\Shared\obj\Debug\Shared.exe.config
